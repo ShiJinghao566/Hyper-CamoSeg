@@ -6,3 +6,11 @@ __pycache__/
 .ruff_cache/
 .idea/
 .vscode/
+
+# Generated experiments and large model checkpoints
+outputs/
+pretrained/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
