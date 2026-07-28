@@ -1,0 +1,844 @@
+[
+    {
+        "name": "mantis",
+        "id": 0,
+        "super_class": "flying animal",
+        "sub_class": [
+            "orchid mantis",
+            "mantis"
+        ],
+        "split": "train",
+        "num_samples": 186
+    },
+    {
+        "name": "owl",
+        "id": 1,
+        "super_class": "flying animal",
+        "sub_class": [
+            "eastern screech owl",
+            "owl"
+        ],
+        "split": "train",
+        "num_samples": 410
+    },
+    {
+        "name": "grasshopper",
+        "id": 2,
+        "super_class": "flying animal",
+        "sub_class": [
+            "grasshopper"
+        ],
+        "split": "train",
+        "num_samples": 411
+    },
+    {
+        "name": "katydid",
+        "id": 3,
+        "super_class": "flying animal",
+        "sub_class": [
+            "lichen katydid",
+            "katydid"
+        ],
+        "split": "train",
+        "num_samples": 571
+    },
+    {
+        "name": "snake",
+        "id": 4,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "spider tailed horned viper",
+            "copperhead snake",
+            "snake"
+        ],
+        "split": "train",
+        "num_samples": 251
+    },
+    {
+        "name": "spider",
+        "id": 5,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "flower crab spider",
+            "spider"
+        ],
+        "split": "train",
+        "num_samples": 420
+    },
+    {
+        "name": "lizard",
+        "id": 6,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "nile monitor",
+            "gecko",
+            "leaf tail gecko",
+            "lizard"
+        ],
+        "split": "train",
+        "num_samples": 438
+    },
+    {
+        "name": "snow leopard",
+        "id": 7,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "snow leopard"
+        ],
+        "split": "train",
+        "num_samples": 584
+    },
+    {
+        "name": "human",
+        "id": 8,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "arid fleck",
+            "british dpm",
+            "cadpat",
+            "danish m",
+            "desert digital marpat",
+            "desert dpm",
+            "desert tiger stripe",
+            "german snow camouflage",
+            "marpat digital woodland",
+            "rhodesian pattern",
+            "bgs sumpfmuster",
+            "british multi terrain pattern",
+            "coyote tan",
+            "czech vz 95",
+            "desert night",
+            "french cce",
+            "german flecktarn",
+            "german wwii 44 dot",
+            "idf combat uniform",
+            "kryptek mandrake",
+            "human"
+        ],
+        "split": "train",
+        "num_samples": 1079
+    },
+    {
+        "name": "seahorse",
+        "id": 9,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "pygmy seahorse",
+            "seahorse"
+        ],
+        "split": "train",
+        "num_samples": 312
+    },
+    {
+        "name": "pipefish",
+        "id": 10,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "ghost pipefish",
+            "pipefish"
+        ],
+        "split": "train",
+        "num_samples": 466
+    },
+    {
+        "name": "flatfish",
+        "id": 11,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "sole",
+            "plaice",
+            "flounder",
+            "peacock flounder",
+            "flatfish"
+        ],
+        "split": "train",
+        "num_samples": 1209
+    },
+    {
+        "name": "frog",
+        "id": 12,
+        "super_class": "amphibian",
+        "sub_class": [
+            "toad",
+            "frog"
+        ],
+        "split": "train",
+        "num_samples": 364
+    },
+    {
+        "name": "succulent plant",
+        "id": 13,
+        "super_class": "plant",
+        "sub_class": [
+            "aloe striata",
+            "aloinopsis peersii",
+            "argyroderma delaetii",
+            "ariocarpus fissuratus",
+            "ariocarpus kotschoubeyanus",
+            "ariocarpus retusus",
+            "ariocarpus scapharostrus",
+            "ariocarpus trigonus",
+            "astrophytum myriostigma",
+            "avonia papyracea",
+            "aztekium ritteri",
+            "blossfeldia liliputana",
+            "lithops",
+            "conophytum hammeri",
+            "conophytum jucundum",
+            "conophytum minusculum",
+            "conophytum pellucidum",
+            "coryphantha delicata",
+            "crassula alstonii",
+            "crassula columnaris",
+            "crassula deceptor",
+            "echinocactus horizonthalonius",
+            "epithelantha micromeris",
+            "eriosyce esmeraldana",
+            "eriosyce napina",
+            "haworthia emelyae",
+            "haworthia maraisii",
+            "haworthia truncata",
+            "lapidaria margaretae",
+            "lophophora williamsii",
+            "mammillaria chionocephala",
+            "mammillaria theresae",
+            "obregonia denegrii",
+            "oophytum oviforme",
+            "pleiospilos nelii",
+            "psammophora",
+            "pseudolithos cubiformis",
+            "titanopsis",
+            "succulent plant"
+        ],
+        "split": "train",
+        "num_samples": 1012
+    },
+    {
+        "name": "owlfly larva",
+        "id": 14,
+        "super_class": "flying animal",
+        "sub_class": [
+            "owlfly larva"
+        ],
+        "split": "test",
+        "num_samples": 13
+    },
+    {
+        "name": "grouse",
+        "id": 15,
+        "super_class": "flying animal",
+        "sub_class": [
+            "grouse"
+        ],
+        "split": "test",
+        "num_samples": 17
+    },
+    {
+        "name": "frogmouth",
+        "id": 16,
+        "super_class": "flying animal",
+        "sub_class": [
+            "frogmouth"
+        ],
+        "split": "test",
+        "num_samples": 20
+    },
+    {
+        "name": "bat",
+        "id": 17,
+        "super_class": "flying animal",
+        "sub_class": [
+            "bat"
+        ],
+        "split": "test",
+        "num_samples": 23
+    },
+    {
+        "name": "bee",
+        "id": 18,
+        "super_class": "flying animal",
+        "sub_class": [
+            "bee"
+        ],
+        "split": "test",
+        "num_samples": 29
+    },
+    {
+        "name": "bittern",
+        "id": 19,
+        "super_class": "flying animal",
+        "sub_class": [
+            "bittern"
+        ],
+        "split": "test",
+        "num_samples": 40
+    },
+    {
+        "name": "mockingbird",
+        "id": 20,
+        "super_class": "flying animal",
+        "sub_class": [
+            "mockingbird"
+        ],
+        "split": "test",
+        "num_samples": 41
+    },
+    {
+        "name": "dragonfly",
+        "id": 21,
+        "super_class": "flying animal",
+        "sub_class": [
+            "dragonfly"
+        ],
+        "split": "test",
+        "num_samples": 41
+    },
+    {
+        "name": "heron",
+        "id": 22,
+        "super_class": "flying animal",
+        "sub_class": [
+            "heron"
+        ],
+        "split": "test",
+        "num_samples": 53
+    },
+    {
+        "name": "egyptian nightjar",
+        "id": 23,
+        "super_class": "flying animal",
+        "sub_class": [
+            "egyptian nightjar"
+        ],
+        "split": "test",
+        "num_samples": 59
+    },
+    {
+        "name": "potoo",
+        "id": 24,
+        "super_class": "flying animal",
+        "sub_class": [
+            "potoo"
+        ],
+        "split": "test",
+        "num_samples": 97
+    },
+    {
+        "name": "cicada",
+        "id": 25,
+        "super_class": "flying animal",
+        "sub_class": [
+            "cicada"
+        ],
+        "split": "test",
+        "num_samples": 114
+    },
+    {
+        "name": "butterfly",
+        "id": 26,
+        "super_class": "flying animal",
+        "sub_class": [
+            "butterfly"
+        ],
+        "split": "test",
+        "num_samples": 148
+    },
+    {
+        "name": "moth",
+        "id": 27,
+        "super_class": "flying animal",
+        "sub_class": [
+            "moth"
+        ],
+        "split": "test",
+        "num_samples": 186
+    },
+    {
+        "name": "slug",
+        "id": 28,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "slug"
+        ],
+        "split": "test",
+        "num_samples": 5
+    },
+    {
+        "name": "reccoon",
+        "id": 29,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "reccoon"
+        ],
+        "split": "test",
+        "num_samples": 5
+    },
+    {
+        "name": "monkey",
+        "id": 30,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "monkey"
+        ],
+        "split": "test",
+        "num_samples": 6
+    },
+    {
+        "name": "kangaroo",
+        "id": 31,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "kangaroo"
+        ],
+        "split": "test",
+        "num_samples": 9
+    },
+    {
+        "name": "mongoose",
+        "id": 32,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "mongoose"
+        ],
+        "split": "test",
+        "num_samples": 10
+    },
+    {
+        "name": "lion",
+        "id": 33,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "lion"
+        ],
+        "split": "test",
+        "num_samples": 14
+    },
+    {
+        "name": "elephant",
+        "id": 34,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "elephant"
+        ],
+        "split": "test",
+        "num_samples": 16
+    },
+    {
+        "name": "jerboa",
+        "id": 35,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "jerboa"
+        ],
+        "split": "test",
+        "num_samples": 16
+    },
+    {
+        "name": "snail",
+        "id": 36,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "snail"
+        ],
+        "split": "test",
+        "num_samples": 17
+    },
+    {
+        "name": "duck",
+        "id": 37,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "duck"
+        ],
+        "split": "test",
+        "num_samples": 17
+    },
+    {
+        "name": "cheetah",
+        "id": 38,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "cheetah"
+        ],
+        "split": "test",
+        "num_samples": 20
+    },
+    {
+        "name": "giraffe",
+        "id": 39,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "giraffe"
+        ],
+        "split": "test",
+        "num_samples": 21
+    },
+    {
+        "name": "ant",
+        "id": 40,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "ant"
+        ],
+        "split": "test",
+        "num_samples": 26
+    },
+    {
+        "name": "beetle",
+        "id": 41,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "glowwormbeetle",
+            "beetle"
+        ],
+        "split": "test",
+        "num_samples": 29
+    },
+    {
+        "name": "wolf",
+        "id": 42,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "wolf"
+        ],
+        "split": "test",
+        "num_samples": 31
+    },
+    {
+        "name": "rabbit",
+        "id": 43,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "rabbit"
+        ],
+        "split": "test",
+        "num_samples": 35
+    },
+    {
+        "name": "tiger",
+        "id": 44,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "tiger"
+        ],
+        "split": "test",
+        "num_samples": 38
+    },
+    {
+        "name": "squirrel",
+        "id": 45,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "squirrel"
+        ],
+        "split": "test",
+        "num_samples": 40
+    },
+    {
+        "name": "polar bear",
+        "id": 46,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "polar bear"
+        ],
+        "split": "test",
+        "num_samples": 44
+    },
+    {
+        "name": "deer",
+        "id": 47,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "deer"
+        ],
+        "split": "test",
+        "num_samples": 46
+    },
+    {
+        "name": "dog",
+        "id": 48,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "dog"
+        ],
+        "split": "test",
+        "num_samples": 58
+    },
+    {
+        "name": "scorpion",
+        "id": 49,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "scorpion"
+        ],
+        "split": "test",
+        "num_samples": 64
+    },
+    {
+        "name": "arctic fox",
+        "id": 50,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "arctic fox"
+        ],
+        "split": "test",
+        "num_samples": 65
+    },
+    {
+        "name": "goat",
+        "id": 51,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "sheep",
+            "ibex",
+            "markhor",
+            "mountain goat",
+            "goat"
+        ],
+        "split": "test",
+        "num_samples": 71
+    },
+    {
+        "name": "hedgehog",
+        "id": 52,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "hedgehog"
+        ],
+        "split": "test",
+        "num_samples": 77
+    },
+    {
+        "name": "chameleon",
+        "id": 53,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "chameleon"
+        ],
+        "split": "test",
+        "num_samples": 117
+    },
+    {
+        "name": "leopard",
+        "id": 54,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "black cat",
+            "leopard"
+        ],
+        "split": "test",
+        "num_samples": 122
+    },
+    {
+        "name": "worm",
+        "id": 55,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "caterpillar",
+            "centipede",
+            "worm"
+        ],
+        "split": "test",
+        "num_samples": 153
+    },
+    {
+        "name": "stick insect",
+        "id": 56,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "stick insect"
+        ],
+        "split": "test",
+        "num_samples": 180
+    },
+    {
+        "name": "cat",
+        "id": 57,
+        "super_class": "terrestrial animal",
+        "sub_class": [
+            "pallas cat",
+            "rusty spotted cat",
+            "sand cat",
+            "cat"
+        ],
+        "split": "test",
+        "num_samples": 327
+    },
+    {
+        "name": "crocodilefish",
+        "id": 58,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "crocodilefish"
+        ],
+        "split": "test",
+        "num_samples": 7
+    },
+    {
+        "name": "batfish",
+        "id": 59,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "batfish"
+        ],
+        "split": "test",
+        "num_samples": 9
+    },
+    {
+        "name": "clownfish",
+        "id": 60,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "clownfish"
+        ],
+        "split": "test",
+        "num_samples": 9
+    },
+    {
+        "name": "frogfish",
+        "id": 61,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "frogfish"
+        ],
+        "split": "test",
+        "num_samples": 14
+    },
+    {
+        "name": "seadragon",
+        "id": 62,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "leafy seadragon",
+            "seadragon"
+        ],
+        "split": "test",
+        "num_samples": 15
+    },
+    {
+        "name": "stingaree",
+        "id": 63,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "stingaree"
+        ],
+        "split": "test",
+        "num_samples": 23
+    },
+    {
+        "name": "crocodile",
+        "id": 64,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "crocodile"
+        ],
+        "split": "test",
+        "num_samples": 24
+    },
+    {
+        "name": "starfish",
+        "id": 65,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "starfish"
+        ],
+        "split": "test",
+        "num_samples": 32
+    },
+    {
+        "name": "hermit crab",
+        "id": 66,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "hermit crab"
+        ],
+        "split": "test",
+        "num_samples": 33
+    },
+    {
+        "name": "cuttlefish",
+        "id": 67,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "cuttlefish"
+        ],
+        "split": "test",
+        "num_samples": 41
+    },
+    {
+        "name": "shrimp",
+        "id": 68,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "shrimp"
+        ],
+        "split": "test",
+        "num_samples": 46
+    },
+    {
+        "name": "seal",
+        "id": 69,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "seal"
+        ],
+        "split": "test",
+        "num_samples": 64
+    },
+    {
+        "name": "crab",
+        "id": 70,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "crab"
+        ],
+        "split": "test",
+        "num_samples": 171
+    },
+    {
+        "name": "octopus",
+        "id": 71,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "octopus"
+        ],
+        "split": "test",
+        "num_samples": 175
+    },
+    {
+        "name": "turtle",
+        "id": 72,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "turtle"
+        ],
+        "split": "test",
+        "num_samples": 218
+    },
+    {
+        "name": "scorpionfish",
+        "id": 73,
+        "super_class": "aquatic animal",
+        "sub_class": [
+            "devil scorpionfish",
+            "scorpionfish"
+        ],
+        "split": "test",
+        "num_samples": 300
+    },
+    {
+        "name": "non-succulent plant",
+        "id": 74,
+        "super_class": "plant",
+        "sub_class": [
+            "corydalis benecincta",
+            "corydalis hemidicentra",
+            "ranunculus crithmifolius",
+            "fritillaria delavayi",
+            "crepis pygmaea",
+            "non-succulent plant"
+        ],
+        "split": "test",
+        "num_samples": 29
+    }
+]

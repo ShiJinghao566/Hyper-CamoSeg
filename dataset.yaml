@@ -1,0 +1,11 @@
+COD10K_TRAIN_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/COD10K/COD-TrainDataset"
+COD10K_TEST_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/COD10K/COD-TestDataset/COD10K"
+
+PlantCamo_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/PlantCamo-fixed"
+
+CPD1K_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/CPD/CamouflageData"
+
+MoCA-Mask_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/MoCA-Mask"
+
+CAD_IMAGE_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/CAD"
+CAD_MASK_DIR: "/root/autodl-tmp/BaCLIP-github/原始数据/CAD-Mask-fixed"

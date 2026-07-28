@@ -1,0 +1,9 @@
+OVCamo_CLASS_JSON_PATH: "ovcamo/dataset/class_info.json"
+OVCamo_SAMPLE_JSON_PATH: "ovcamo/dataset/sample_info.json"
+
+OVCamo_TR_IMAGE_DIR: "../../../datasets/OVCamo/train/image"
+OVCamo_TR_MASK_DIR: "../../../datasets/OVCamo/train/mask"
+OVCamo_TR_DEPTH_DIR: "../../../datasets/OVCamo/train/depth"
+
+OVCamo_TE_IMAGE_DIR: "../../../datasets/OVCamo/test/image"
+OVCamo_TE_MASK_DIR: "../../../datasets/OVCamo/test/mask"
